@@ -38,7 +38,6 @@ const RegisterPage = () => {
         profile_pic : uploadImage?.url
       }
     })
-
   }
 
   const handleClearUploadImage = (e) => {
